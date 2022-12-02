@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá mundo, eu sou Elie Ferreira, um jovem a procurando sua primeira oportunidade como desenvolvedor. 👀
 
-<!--
-**elie-evy/elie-evy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
+### Um pouco sobre mim:
+- 🔭 Atualmente trabalho como professor de informatica, e a procura meu primeiro emprego como desenvolvedor Jr.
+- 🌱 Eu atualmente estou estudando Desenvolvimento Web Full Stack pela Udemy.
 
-Here are some ideas to get you started:
+##
+### Statsus:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/elie-evy">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elie-evy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elie-evy&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
